@@ -10,7 +10,7 @@ print('Input presentation shortcut number\n')
 input_number = input()
 presentation_address = 'http://' + web_address + '/api/?Function=Cut&Input=' + input_number
 return_to_address = 'http://' + web_address + '/api/?Function=Cut&Input=0'
-
+# qwerftrewqwertrewqwedf
 while 1:
     case = int(input())
     if case == 1:
